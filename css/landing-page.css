@@ -21,6 +21,14 @@ h6 {
     font-weight: 700;
 }
 
+img {
+    width: 100%;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
 .topnav {
     font-size: 14px; 
 }
@@ -116,7 +124,7 @@ h6 {
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
+    background: url(../img/cherie.jpg) no-repeat center center;
     background-size: cover;
 }
 
